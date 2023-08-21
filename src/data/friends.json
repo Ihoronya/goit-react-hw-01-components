@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://phonoteka.top/uploads/posts/2023-03/1679742314_phonoteka-org-p-femto-berserk-oboi-pinterest-28.jpg",
+    "name": "Griffith",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://i.pinimg.com/originals/47/f4/ee/47f4ee6d23fdbbf521558e62b5068649.jpg",
+    "name": "Void",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://i.pinimg.com/550x/ae/11/e3/ae11e30c3d27aced5dad396cf6ab5ba8.jpg",
+    "name": "Slan",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://comicvine.gamespot.com/a/uploads/scale_small/11114/111147274/3784976-5071583608-ubik3.jpg",
+    "name": "Ubik",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://fanfics.me/images/fandoms_heroes/713-1491929319.jpg",
+    "name": "Conrad",
+    "isOnline": false,
+    "id": 1284
+  }
+]
